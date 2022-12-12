@@ -1,0 +1,48 @@
+main {
+  widht: 600px;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+img {
+    display: block;
+  widht: 100px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 28px;
+}
+
+h1 {
+    font-family: Poppins;
+  color: #080809;
+  font-size: 32px;
+  margin-bottom: 28px;
+  text-align: center;
+}
+
+h2 {
+    font-family: "Inter";
+    text-align: center;
+  color: #080809;
+  font-size: 22px;
+  margin-bottom: 28px;
+}
+
+p {
+    text-align: center;
+  color: #242627;
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 28px;
+}
+
+button {
+display: block;
+margin: auto;
+background-color: #0639ba;
+  color-text: #ffffff;
+  height: 48px;
+  padding: 0 40px;
+  border: 0px;
+  border-radius: 8px;
+}
